@@ -1,5 +1,5 @@
 ---
-title: "Interaction Effects and Charge Quantization in Single-Particle Quantum Do Using the semiclassical quantum Boltzmann equation (QBE), we numerically calculate the DC transport properties of bilayer graphene near charge neutrality. We find, in contrast to prior discussions, that phonon scattering is crucial even at temperatures below 40K. Nonetheless, electron-electron scattering still dominates over phonon collisions allowing a hydrodynamic approach. We introduce a simple two-fluid hydrodynamic model of electrons and holes interacting via Coulomb drag and compare our results to the full QBE calculation. We show that the two-fluid model produces quantitatively accurate results for conductivity, thermopower, and thermal conductivity. t Emitters"
+title: "Interaction Effects and Charge Quantization in Single-Particle Quantum Dot Emitters"
 collection: publications
 date: 2019-10-01
 venue: 'Physical Review Letters'
